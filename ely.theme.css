@@ -1,0 +1,92 @@
+/**
+ * @name ELY
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker:wght@100;300;400;500;700&display=swap');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #212121;
+  --hover-color: #151515;
+  --success-color: #151515;
+  --danger-color: #151515;
+  --url-color: #D5FAFF;
+  --background-image: url('https://anonsharing.com/cache/plugins/filepreviewer/34042/b9999c1cc8135325cb0ce86b2267a72050a8ba95e1c50a470251f131a6bf6cf4/280x280_middle.jpg');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 100%;
+  --background-saturation: 100%;
+  --background-grayscale: 50%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://anonsharing.com/cache/plugins/filepreviewer/34045/53d56b10de2b7afb4e57195e022c4c1b1f4496f5b56abea3d6b5f82d6e488c24/280x280_middle.jpg');
+  --user-popout-position: center;
+  --user-popout-size: 100%;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://anonsharing.com/cache/plugins/filepreviewer/34042/b9999c1cc8135325cb0ce86b2267a72050a8ba95e1c50a470251f131a6bf6cf4/280x280_middle.jpg');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 50%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://anonsharing.com/cache/plugins/filepreviewer/34045/53d56b10de2b7afb4e57195e022c4c1b1f4496f5b56abea3d6b5f82d6e488c24/280x280_middle.jpg');
+  --home-position: center;
+  --home-size: 50px;
+  --channel-unread: #FFFFFF;
+  --channel-color: rgb(128,128,128,1);
+  --muted-color: rgb(21,21,21,1);
+  --online-color: #C2FFC7;
+  --idle-color: #FFF2BD;
+  --dnd-color: #FFBDBD;
+  --streaming-color: #D4BCFF;
+  --offline-color: #808080;
+  --main-font: Permanent Marker;
+  --code-font: Permanent Marker;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+
